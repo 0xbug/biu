@@ -1,5 +1,5 @@
 # Biu
-全网资产、漏洞扫描
+网络资产发现、漏洞扫描
 
 ---
 ![image](https://screenshotscdn.firefoxusercontent.com/images/5ee255b9-b2e8-49c8-a86b-bf031a229b81.png)
