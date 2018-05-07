@@ -8,4 +8,4 @@
 
 ### 演示视频
 
-[![](http://7xqmi7.com1.z0.glb.clouddn.com/screenshot.jpg)](http://7xqmi7.com1.z0.glb.clouddn.com/biu.mp4)
+[![](http://7xqmi7.com1.z0.glb.clouddn.com/screenshot.jpg)](http://7xqmi7.com1.z0.glb.clouddn.com/BiuBeta.mp4)
