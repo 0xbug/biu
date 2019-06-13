@@ -6,6 +6,6 @@
 
 ![image](https://raw.githubusercontent.com/0xbug/Biu/master/Biu.png)
 
-### 演示视频
+### 截图
 
-[![](http://7xqmi7.com1.z0.glb.clouddn.com/screenshot.jpg)](http://7xqmi7.com1.z0.glb.clouddn.com/BiuBeta.mp4)
+![image](https://user-images.githubusercontent.com/12611275/59447001-249a1780-8e35-11e9-8e50-afd9f273c5d4.png)
