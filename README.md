@@ -1,12 +1,12 @@
-邀你加入「Biu 资产风险监测系统」团队: https://seeksec.yuque.com/groups/biuscan/join?token=wlUQhoO499IJ9vGs# (成员)
 # Biu
 网络资产发现、漏洞扫描
 
 ---
-### 架构
-
-![image](https://raw.githubusercontent.com/0xbug/Biu/master/Biu.png)
 
 ### 截图
 
-![image](https://user-images.githubusercontent.com/12611275/59447001-249a1780-8e35-11e9-8e50-afd9f273c5d4.png)
+https://seeksec.yuque.com/books/share/84b0360d-160b-417f-943e-b5d8e19fca86?# 《截图》
+
+### 试用申请
+
+https://seeksec.yuque.com/docs/share/07ae19ba-81bf-42b9-9209-6d0a23286cfd?# 《试用激活码申请》
