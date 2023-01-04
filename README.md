@@ -1,10 +1,8 @@
 # Biu
 网络资产发现、漏洞扫描、外部攻击面梳理
 
+<img width="2042" alt="图片" src="https://user-images.githubusercontent.com/12611275/210497726-c76be368-bfa2-40b3-91ea-bdffd5b96f0a.png">
 
-### 截图
-
-https://seeksec.yuque.com/books/share/84b0360d-160b-417f-943e-b5d8e19fca86
 
 ### 试用申请
 
