@@ -1,9 +1,6 @@
 # Biu
 网络资产发现、漏洞扫描、外部攻击面梳理
 
-<img width="2042" alt="图片" src="https://user-images.githubusercontent.com/12611275/210497726-c76be368-bfa2-40b3-91ea-bdffd5b96f0a.png">
-
-
 ### 试用申请
 
 试用场景
@@ -20,3 +17,7 @@
 - 企业名称
 
 审核通过后会发送激活码到微信。
+
+<img width="2160" alt="图片" src="https://user-images.githubusercontent.com/12611275/210498490-a0a3fc36-c57c-4f22-bbe9-14259a52d9e9.png">
+
+<img width="2160" alt="图片" src="https://user-images.githubusercontent.com/12611275/210498529-f699de2e-2e8e-4ed1-9ab1-59a6b70d8c12.png">
