@@ -18,8 +18,7 @@
 
 审核通过后会发送激活码到微信。
 
-### 快速体验（仅支持查看）
-[点击体验](https://asm.biu.life/project/share?key=f905c303bc7a4c&project_id=7220b29d383c2260dc3b9708d87bdc68)
+### 预览
 <img width="2160" alt="图片" src="https://user-images.githubusercontent.com/12611275/210498490-a0a3fc36-c57c-4f22-bbe9-14259a52d9e9.png">
 
 <img width="2160" alt="图片" src="https://user-images.githubusercontent.com/12611275/210498529-f699de2e-2e8e-4ed1-9ab1-59a6b70d8c12.png">
