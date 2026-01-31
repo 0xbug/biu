@@ -1,7 +1,7 @@
 # Biu
 网络资产发现、漏洞扫描、外部攻击面梳理
 ### 产品矩阵
-
+[攻击诱捕平台](https://trap.biu.life/)
 [攻击面梳理平台](https://asm.biu.life/)
 [漏洞情报平台](https://rss.biu.life/ti/feed.html)
 [网络基础数据平台](https://x.biu.life/)
